@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'Hứ, không thèm :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho chú bộ dangiu <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Tại anh đẹp trai, tài giỏi. Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu bé nhiều nhiều 😘😘',
     messDesc: 'Tối nay call cho anh nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii anh iu <3',
     messLink: 'https://m.me/Engineer.HN'
 }
